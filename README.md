@@ -1,2 +1,2 @@
 # collision_simulator
-To run paste the line roslaunch colisao detect_collision_3d.launch
+To run copy and paste "roslaunch colisao detect_collision_3d.launch" on your terminal 
